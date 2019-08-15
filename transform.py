@@ -2,8 +2,11 @@ import os
 import re
 from util.langconv import Converter
 
-sourcePath = "/Users/jun/Desktop/Project/缤纷/BrightenMall/BrightenMall/BrightenMall/Modules"
-outputPath = "/Users/jun/Desktop/字符串转换/Localizable.strings"
+#文件路径
+sourcePath = ""
+#多语言文件输出路径
+outputPath = ""
+
 file_contents = []
 class FileContent():
     fileName = ''
