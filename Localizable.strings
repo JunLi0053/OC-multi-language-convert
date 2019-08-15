@@ -1,0 +1,389 @@
+
+//BMSafariVC.m --1
+"@"返回"" = "@"返回"" //BMLocalizedString(@"@"返回"")
+
+//BMOrderInfoVC.m --47
+"@"訂單詳情"" = "@"订单详情"" //BMLocalizedString(@"@"訂單詳情"")
+"@"取消"" = "@"取消"" //BMLocalizedString(@"@"取消"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+"@"正在"" = "@"正在"" //BMLocalizedString(@"@"正在"")
+"@"取消訂單"" = "@"取消订单"" //BMLocalizedString(@"@"取消訂單"")
+"@"%@成功"" = "@"%@成功"" //BMLocalizedString(@"@"%@成功"")
+"@"刪除訂單"" = "@"删除订单"" //BMLocalizedString(@"@"刪除訂單"")
+"@"%@成功"" = "@"%@成功"" //BMLocalizedString(@"@"%@成功"")
+"@"再次購買"" = "@"再次购买"" //BMLocalizedString(@"@"再次購買"")
+"@"付款"" = "@"付款"" //BMLocalizedString(@"@"付款"")
+"@"查看物流"" = "@"查看物流"" //BMLocalizedString(@"@"查看物流"")
+"@"暫未推出"" = "@"暂未推出"" //BMLocalizedString(@"@"暫未推出"")
+"@"請輸入優惠碼"" = "@"请输入优惠码"" //BMLocalizedString(@"@"請輸入優惠碼"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+"@"取消"" = "@"取消"" //BMLocalizedString(@"@"取消"")
+"@"待付款"" = "@"待付款"" //BMLocalizedString(@"@"待付款"")
+"@"總金額："" = "@"总金额："" //BMLocalizedString(@"@"總金額："")
+"@"總金額：HK$%.1f"" = "@"总金额：HK$%.1f"" //BMLocalizedString(@"@"總金額：HK$%.1f"")
+"@"取消訂單"" = "@"取消订单"" //BMLocalizedString(@"@"取消訂單"")
+"@"付款"" = "@"付款"" //BMLocalizedString(@"@"付款"")
+"@"待收貨"" = "@"待收货"" //BMLocalizedString(@"@"待收貨"")
+"@"總金額："" = "@"总金额："" //BMLocalizedString(@"@"總金額："")
+"@"查看物流"" = "@"查看物流"" //BMLocalizedString(@"@"查看物流"")
+"@"完成"" = "@"完成"" //BMLocalizedString(@"@"完成"")
+"@"總金額："" = "@"总金额："" //BMLocalizedString(@"@"總金額："")
+"@"刪除訂單"" = "@"删除订单"" //BMLocalizedString(@"@"刪除訂單"")
+"@"再次購買"" = "@"再次购买"" //BMLocalizedString(@"@"再次購買"")
+"@"已取消"" = "@"已取消"" //BMLocalizedString(@"@"已取消"")
+"@"金額："" = "@"金额："" //BMLocalizedString(@"@"金額："")
+"@"刪除訂單"" = "@"删除订单"" //BMLocalizedString(@"@"刪除訂單"")
+"@"再次購買"" = "@"再次购买"" //BMLocalizedString(@"@"再次購買"")
+"@"已退貨"" = "@"已退货"" //BMLocalizedString(@"@"已退貨"")
+"@"金額："" = "@"金额："" //BMLocalizedString(@"@"金額："")
+"@"刪除訂單"" = "@"删除订单"" //BMLocalizedString(@"@"刪除訂單"")
+"@"送貨"" = "@"送货"" //BMLocalizedString(@"@"送貨"")
+"@"自提"" = "@"自提"" //BMLocalizedString(@"@"自提"")
+"@"送貨時間："" = "@"送货时间："" //BMLocalizedString(@"@"送貨時間："")
+"@"自提時間："" = "@"自提时间："" //BMLocalizedString(@"@"自提時間："")
+"@"共%lu件"" = "@"共%lu件"" //BMLocalizedString(@"@"共%lu件"")
+"@"獲取訂單詳情失敗"" = "@"获取订单详情失败"" //BMLocalizedString(@"@"獲取訂單詳情失敗"")
+"@"正在加入購物車"" = "@"正在加入购物车"" //BMLocalizedString(@"@"正在加入購物車"")
+"@"數據錯誤"" = "@"数据错误"" //BMLocalizedString(@"@"數據錯誤"")
+"@"应用进入后台啦"" = "@"应用进入后台啦"" //BMLocalizedString(@"@"应用进入后台啦"")
+"@"应用将要进入到前台"" = "@"应用将要进入到前台"" //BMLocalizedString(@"@"应用将要进入到前台"")
+"@"訂單已過期，請重新下單"" = "@"订单已过期，请重新下单"" //BMLocalizedString(@"@"訂單已過期，請重新下單"")
+"@"訂單已過期,請重新下單"" = "@"订单已过期,请重新下单"" //BMLocalizedString(@"@"訂單已過期,請重新下單"")
+"@"剩餘：%@"" = "@"剩馀：%@"" //BMLocalizedString(@"@"剩餘：%@"")
+
+//BMOrderListVC.m --10
+"@"全部"" = "@"全部"" //BMLocalizedString(@"@"全部"")
+"@"待付款"" = "@"待付款"" //BMLocalizedString(@"@"待付款"")
+"@"待收貨"" = "@"待收货"" //BMLocalizedString(@"@"待收貨"")
+"@"已完成"" = "@"已完成"" //BMLocalizedString(@"@"已完成"")
+"@"已取消"" = "@"已取消"" //BMLocalizedString(@"@"已取消"")
+"@"我的訂單"" = "@"我的订单"" //BMLocalizedString(@"@"我的訂單"")
+"@"正在加入購物車"" = "@"正在加入购物车"" //BMLocalizedString(@"@"正在加入購物車"")
+"@"庫存不足"" = "@"库存不足"" //BMLocalizedString(@"@"庫存不足"")
+"@"庫存不足"" = "@"库存不足"" //BMLocalizedString(@"@"庫存不足"")
+"@"庫存不足"" = "@"库存不足"" //BMLocalizedString(@"@"庫存不足"")
+
+//BMPayWebVC.m --3
+"@"付款\nPayment"" = "@"付款\nPayment"" //BMLocalizedString(@"@"付款\nPayment"")
+"@"支付成功"" = "@"支付成功"" //BMLocalizedString(@"@"支付成功"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+
+//BMPayVC.m --6
+"@"付費方式"" = "@"付费方式"" //BMLocalizedString(@"@"付費方式"")
+"@"提示"" = "@"提示"" //BMLocalizedString(@"@"提示"")
+"@"支付成功"" = "@"支付成功"" //BMLocalizedString(@"@"支付成功"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+"@"支付失敗"" = "@"支付失败"" //BMLocalizedString(@"@"支付失敗"")
+"@"正在加載"" = "@"正在加载"" //BMLocalizedString(@"@"正在加載"")
+
+//BMOrderListView.m --2
+"@"暫未推出"" = "@"暂未推出"" //BMLocalizedString(@"@"暫未推出"")
+"@"沒有相關資料"" = "@"没有相关资料"" //BMLocalizedString(@"@"沒有相關資料"")
+
+//BMOrderListTableViewCell.m --21
+"@"取消"" = "@"取消"" //BMLocalizedString(@"@"取消"")
+"@"是否取消該訂單"" = "@"是否取消该订单"" //BMLocalizedString(@"@"是否取消該訂單"")
+"@"是否刪除該訂單"" = "@"是否删除该订单"" //BMLocalizedString(@"@"是否刪除該訂單"")
+"@"取消"" = "@"取消"" //BMLocalizedString(@"@"取消"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+"@"共 %lu 件商品"" = "@"共 %lu 件商品"" //BMLocalizedString(@"@"共 %lu 件商品"")
+"@"查看物流"" = "@"查看物流"" //BMLocalizedString(@"@"查看物流"")
+"@"實付款："" = "@"实付款："" //BMLocalizedString(@"@"實付款："")
+"@"待收貨"" = "@"待收货"" //BMLocalizedString(@"@"待收貨"")
+"@"付款"" = "@"付款"" //BMLocalizedString(@"@"付款"")
+"@"需付款："" = "@"需付款："" //BMLocalizedString(@"@"需付款："")
+"@"取消訂單"" = "@"取消订单"" //BMLocalizedString(@"@"取消訂單"")
+"@"待付款"" = "@"待付款"" //BMLocalizedString(@"@"待付款"")
+"@"再次購買"" = "@"再次购买"" //BMLocalizedString(@"@"再次購買"")
+"@"實付款："" = "@"实付款："" //BMLocalizedString(@"@"實付款："")
+"@"已完成"" = "@"已完成"" //BMLocalizedString(@"@"已完成"")
+"@"再次購買"" = "@"再次购买"" //BMLocalizedString(@"@"再次購買"")
+"@"金額："" = "@"金额："" //BMLocalizedString(@"@"金額："")
+"@"已取消"" = "@"已取消"" //BMLocalizedString(@"@"已取消"")
+"@"金額："" = "@"金额："" //BMLocalizedString(@"@"金額："")
+"@"已退貨"" = "@"已退货"" //BMLocalizedString(@"@"已退貨"")
+
+//BMCommodityBuyVC.m --12
+"@"商品詳情"" = "@"商品详情"" //BMLocalizedString(@"@"商品詳情"")
+"@"請輸入訂購數量"" = "@"请输入订购数量"" //BMLocalizedString(@"@"請輸入訂購數量"")
+"@"請選擇日期"" = "@"请选择日期"" //BMLocalizedString(@"@"請選擇日期"")
+"@"登錄查看星級價格"" = "@"登录查看星级价格"" //BMLocalizedString(@"@"登錄查看星級價格"")
+"@"溫馨提示"" = "@"温馨提示"" //BMLocalizedString(@"@"溫馨提示"")
+"@"會員登入"" = "@"会员登入"" //BMLocalizedString(@"@"會員登入"")
+"@"匿名購買"" = "@"匿名购买"" //BMLocalizedString(@"@"匿名購買"")
+"@"取消"" = "@"取消"" //BMLocalizedString(@"@"取消"")
+"@"暫無庫存"" = "@"暂无库存"" //BMLocalizedString(@"@"暫無庫存"")
+"@"供應量：%@"" = "@"供应量：%@"" //BMLocalizedString(@"@"供應量：%@"")
+"@"訂購成功"" = "@"订购成功"" //BMLocalizedString(@"@"訂購成功"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+
+//BMBigCategoryVC.m --1
+"@"店鋪"" = "@"店铺"" //BMLocalizedString(@"@"店鋪"")
+
+//BMCustomerServiceVC.m --3
+"@"客戶服務"" = "@"客户服务"" //BMLocalizedString(@"@"客戶服務"")
+"@"你的客服專員：%@"" = "@"你的客服专员：%@"" //BMLocalizedString(@"@"你的客服專員：%@"")
+"@"聯絡電話：%@"" = "@"联络电话：%@"" //BMLocalizedString(@"@"聯絡電話：%@"")
+
+//CalendarView.m --4
+"@"今天"" = "@"今天"" //BMLocalizedString(@"@"今天"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+"@"取消"" = "@"取消"" //BMLocalizedString(@"@"取消"")
+"@"今天"" = "@"今天"" //BMLocalizedString(@"@"今天"")
+
+//BMDateView.m --1
+"@"選擇交貨日期"" = "@"选择交货日期"" //BMLocalizedString(@"@"選擇交貨日期"")
+
+//BMTextView.m --2
+"@"總公司资料\n\n繽紛园艺有限公司\n地址：\n電話：\n\n营业時間：9:30am - 7:30pm(每日)\n一般查询：www.baidu.com\n会員查询：www.163.com"" = "@"总公司资料\n\n缤纷园艺有限公司\n地址：\n电话：\n\n营业时间：9:30am - 7:30pm(每日)\n一般查询：www.baidu.com\n会员查询：www.163.com"" //BMLocalizedString(@"@"總公司资料\n\n繽紛园艺有限公司\n地址：\n電話：\n\n营业時間：9:30am - 7:30pm(每日)\n一般查询：www.baidu.com\n会員查询：www.163.com"")
+"@"鸡肉"" = "@"鸡肉"" //BMLocalizedString(@"@"鸡肉"")
+
+//BMConsultingListVC.m --7
+"@"隱私政策"" = "@"隐私政策"" //BMLocalizedString(@"@"隱私政策"")
+"@"使用條款"" = "@"使用条款"" //BMLocalizedString(@"@"使用條款"")
+"@"購物條款及細則"" = "@"购物条款及细则"" //BMLocalizedString(@"@"購物條款及細則"")
+"@"聯繫我們/分店資料"" = "@"联系我们/分店资料"" //BMLocalizedString(@"@"聯繫我們/分店資料"")
+"@"關於我們"" = "@"关于我们"" //BMLocalizedString(@"@"關於我們"")
+"@"繽紛貼士"" = "@"缤纷贴士"" //BMLocalizedString(@"@"繽紛貼士"")
+"@"最新消息"" = "@"最新消息"" //BMLocalizedString(@"@"最新消息"")
+
+//BMTipsVC.m --3
+"@"鲜花护理要诀"" = "@"鲜花护理要诀"" //BMLocalizedString(@"@"鲜花护理要诀"")
+"@"植物护理要诀"" = "@"植物护理要诀"" //BMLocalizedString(@"@"植物护理要诀"")
+"@"兰花护理要诀"" = "@"兰花护理要诀"" //BMLocalizedString(@"@"兰花护理要诀"")
+
+//BMMainVC.m --5
+"@"網 購\nBuy Online"" = "@"网 购\nBuy Online"" //BMLocalizedString(@"@"網 購\nBuy Online"")
+"@"新 品\nNew"" = "@"新 品\nNew"" //BMLocalizedString(@"@"新 品\nNew"")
+"@"店 購\nBuy On Site"" = "@"店 购\nBuy On Site"" //BMLocalizedString(@"@"店 購\nBuy On Site"")
+"@"拍 賣\nAuction"" = "@"拍 卖\nAuction"" //BMLocalizedString(@"@"拍 賣\nAuction"")
+"@"暫未推出"" = "@"暂未推出"" //BMLocalizedString(@"@"暫未推出"")
+
+//FEQRCodeVC.m --9
+"@"相冊"" = "@"相册"" //BMLocalizedString(@"@"相冊"")
+"@"掃一掃"" = "@"扫一扫"" //BMLocalizedString(@"@"掃一掃"")
+"@"相繼啟動中"" = "@"相继启动中"" //BMLocalizedString(@"@"相繼啟動中"")
+"@"溫馨提示"" = "@"温馨提示"" //BMLocalizedString(@"@"溫馨提示"")
+"@"請在設備的設置-隱私-相機中允許訪問相機"" = "@"请在设备的设置-隐私-相机中允许访问相机"" //BMLocalizedString(@"@"請在設備的設置-隱私-相機中允許訪問相機"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+"@"請到設置->隱私中開啟本程序相冊權限"" = "@"请到设置->隐私中开启本程序相册权限"" //BMLocalizedString(@"@"請到設置->隱私中開啟本程序相冊權限"")
+"@"請使用正確的掃碼"" = "@"请使用正确的扫码"" //BMLocalizedString(@"@"請使用正確的掃碼"")
+"@"二維碼解析失敗"" = "@"二维码解析失败"" //BMLocalizedString(@"@"二維碼解析失敗"")
+
+//BMBranchInfoVC.m --1
+"@"服務門市"" = "@"服务门市"" //BMLocalizedString(@"@"服務門市"")
+
+//BMLeftVC.m --66
+"@"首頁"" = "@"首页"" //BMLocalizedString(@"@"首頁"")
+"@"網購"" = "@"网购"" //BMLocalizedString(@"@"網購"")
+"@"拍賣"" = "@"拍卖"" //BMLocalizedString(@"@"拍賣"")
+"@"會員中心"" = "@"会员中心"" //BMLocalizedString(@"@"會員中心"")
+"@"登入"" = "@"登入"" //BMLocalizedString(@"@"登入"")
+"@"更多"" = "@"更多"" //BMLocalizedString(@"@"更多"")
+"@"最新消息"" = "@"最新消息"" //BMLocalizedString(@"@"最新消息"")
+"@"繽紛貼士"" = "@"缤纷贴士"" //BMLocalizedString(@"@"繽紛貼士"")
+"@"關於我們"" = "@"关于我们"" //BMLocalizedString(@"@"關於我們"")
+"@"聯繫我們"" = "@"联系我们"" //BMLocalizedString(@"@"聯繫我們"")
+"@"購物流程、條款及細則"" = "@"购物流程、条款及细则"" //BMLocalizedString(@"@"購物流程、條款及細則"")
+"@"使用條款"" = "@"使用条款"" //BMLocalizedString(@"@"使用條款"")
+"@"私隱政策"" = "@"私隐政策"" //BMLocalizedString(@"@"私隱政策"")
+"@"首頁"" = "@"首页"" //BMLocalizedString(@"@"首頁"")
+"@"網購"" = "@"网购"" //BMLocalizedString(@"@"網購"")
+"@"拍賣"" = "@"拍卖"" //BMLocalizedString(@"@"拍賣"")
+"@"會員中心"" = "@"会员中心"" //BMLocalizedString(@"@"會員中心"")
+"@"登出"" = "@"登出"" //BMLocalizedString(@"@"登出"")
+"@"我的訂單"" = "@"我的订单"" //BMLocalizedString(@"@"我的訂單"")
+"@"修改密碼"" = "@"修改密码"" //BMLocalizedString(@"@"修改密碼"")
+"@"送貨地址"" = "@"送货地址"" //BMLocalizedString(@"@"送貨地址"")
+"@"自取地址"" = "@"自取地址"" //BMLocalizedString(@"@"自取地址"")
+"@"門市"" = "@"门市"" //BMLocalizedString(@"@"門市"")
+"@"更多"" = "@"更多"" //BMLocalizedString(@"@"更多"")
+"@"最新消息"" = "@"最新消息"" //BMLocalizedString(@"@"最新消息"")
+"@"繽紛貼士"" = "@"缤纷贴士"" //BMLocalizedString(@"@"繽紛貼士"")
+"@"關於我們"" = "@"关于我们"" //BMLocalizedString(@"@"關於我們"")
+"@"聯繫我們"" = "@"联系我们"" //BMLocalizedString(@"@"聯繫我們"")
+"@"購物流程、條款及細則"" = "@"购物流程、条款及细则"" //BMLocalizedString(@"@"購物流程、條款及細則"")
+"@"使用條款"" = "@"使用条款"" //BMLocalizedString(@"@"使用條款"")
+"@"私隱政策"" = "@"私隐政策"" //BMLocalizedString(@"@"私隱政策"")
+"@"首頁"" = "@"首页"" //BMLocalizedString(@"@"首頁"")
+"@"網購"" = "@"网购"" //BMLocalizedString(@"@"網購"")
+"@"拍賣"" = "@"拍卖"" //BMLocalizedString(@"@"拍賣"")
+"@"會員中心"" = "@"会员中心"" //BMLocalizedString(@"@"會員中心"")
+"@"登入"" = "@"登入"" //BMLocalizedString(@"@"登入"")
+"@"更多"" = "@"更多"" //BMLocalizedString(@"@"更多"")
+"@"最新消息"" = "@"最新消息"" //BMLocalizedString(@"@"最新消息"")
+"@"繽紛貼士"" = "@"缤纷贴士"" //BMLocalizedString(@"@"繽紛貼士"")
+"@"關於我們"" = "@"关于我们"" //BMLocalizedString(@"@"關於我們"")
+"@"聯繫我們"" = "@"联系我们"" //BMLocalizedString(@"@"聯繫我們"")
+"@"購物流程、條款及細則"" = "@"购物流程、条款及细则"" //BMLocalizedString(@"@"購物流程、條款及細則"")
+"@"使用條款"" = "@"使用条款"" //BMLocalizedString(@"@"使用條款"")
+"@"私隱政策"" = "@"私隐政策"" //BMLocalizedString(@"@"私隱政策"")
+"@"首頁"" = "@"首页"" //BMLocalizedString(@"@"首頁"")
+"@"網購"" = "@"网购"" //BMLocalizedString(@"@"網購"")
+"@"新品"" = "@"新品"" //BMLocalizedString(@"@"新品"")
+"@"登入"" = "@"登入"" //BMLocalizedString(@"@"登入"")
+"@"登出"" = "@"登出"" //BMLocalizedString(@"@"登出"")
+"@"我的訂單"" = "@"我的订单"" //BMLocalizedString(@"@"我的訂單"")
+"@"我的積分"" = "@"我的积分"" //BMLocalizedString(@"@"我的積分"")
+"@"店購"" = "@"店购"" //BMLocalizedString(@"@"店購"")
+"@"拍賣"" = "@"拍卖"" //BMLocalizedString(@"@"拍賣"")
+"@"暫未推出"" = "@"暂未推出"" //BMLocalizedString(@"@"暫未推出"")
+"@"信息"" = "@"信息"" //BMLocalizedString(@"@"信息"")
+"@"修改密碼"" = "@"修改密码"" //BMLocalizedString(@"@"修改密碼"")
+"@"送貨地址"" = "@"送货地址"" //BMLocalizedString(@"@"送貨地址"")
+"@"自取地址"" = "@"自取地址"" //BMLocalizedString(@"@"自取地址"")
+"@"門市"" = "@"门市"" //BMLocalizedString(@"@"門市"")
+"@"最新消息"" = "@"最新消息"" //BMLocalizedString(@"@"最新消息"")
+"@"繽紛貼士"" = "@"缤纷贴士"" //BMLocalizedString(@"@"繽紛貼士"")
+"@"關於我們"" = "@"关于我们"" //BMLocalizedString(@"@"關於我們"")
+"@"聯繫我們"" = "@"联系我们"" //BMLocalizedString(@"@"聯繫我們"")
+"@"購物流程、條款及細則"" = "@"购物流程、条款及细则"" //BMLocalizedString(@"@"購物流程、條款及細則"")
+"@"使用條款"" = "@"使用条款"" //BMLocalizedString(@"@"使用條款"")
+"@"私隱政策"" = "@"私隐政策"" //BMLocalizedString(@"@"私隱政策"")
+
+//BMLevelView.m --1
+"@"星"" = "@"星"" //BMLocalizedString(@"@"星"")
+
+//BMConfirmOrderVC.m --10
+"@"確認訂單"" = "@"确认订单"" //BMLocalizedString(@"@"確認訂單"")
+"@"共%lu件"" = "@"共%lu件"" //BMLocalizedString(@"@"共%lu件"")
+"@"選擇收貨人"" = "@"选择收货人"" //BMLocalizedString(@"@"選擇收貨人"")
+"@"送貨時間及運費"" = "@"送货时间及运费"" //BMLocalizedString(@"@"送貨時間及運費"")
+"@"選擇取貨人"" = "@"选择取货人"" //BMLocalizedString(@"@"選擇取貨人"")
+"@"自取時間及運費"" = "@"自取时间及运费"" //BMLocalizedString(@"@"自取時間及運費"")
+"@"暫無運費信息"" = "@"暂无运费信息"" //BMLocalizedString(@"@"暫無運費信息"")
+"@"暫無運費信息"" = "@"暂无运费信息"" //BMLocalizedString(@"@"暫無運費信息"")
+"@"正在提交"" = "@"正在提交"" //BMLocalizedString(@"@"正在提交"")
+"@"請選擇"" = "@"请选择"" //BMLocalizedString(@"@"請選擇"")
+
+//BMAddressListVC.m --3
+"@"送貨地址"" = "@"送货地址"" //BMLocalizedString(@"@"送貨地址"")
+"@"取貨地址"" = "@"取货地址"" //BMLocalizedString(@"@"取貨地址"")
+"@"刪除"" = "@"删除"" //BMLocalizedString(@"@"刪除"")
+
+//BMEditReceiveInfo.m --23
+"@"家"" = "@"家"" //BMLocalizedString(@"@"家"")
+"@"公司"" = "@"公司"" //BMLocalizedString(@"@"公司"")
+"@"學校"" = "@"学校"" //BMLocalizedString(@"@"學校"")
+"@"編輯"" = "@"编辑"" //BMLocalizedString(@"@"編輯"")
+"@"新增"" = "@"新增"" //BMLocalizedString(@"@"新增"")
+"@"收貨人"" = "@"收货人"" //BMLocalizedString(@"@"收貨人"")
+"@"取貨人"" = "@"取货人"" //BMLocalizedString(@"@"取貨人"")
+"@"請輸入類別"" = "@"请输入类别"" //BMLocalizedString(@"@"請輸入類別"")
+"@"不超過6個字符"" = "@"不超过6个字符"" //BMLocalizedString(@"@"不超過6個字符"")
+"@"確定"" = "@"确定"" //BMLocalizedString(@"@"確定"")
+"@"取消"" = "@"取消"" //BMLocalizedString(@"@"取消"")
+"@"請輸入收貨人！"" = "@"请输入收货人！"" //BMLocalizedString(@"@"請輸入收貨人！"")
+"@"請輸入取貨人！"" = "@"请输入取货人！"" //BMLocalizedString(@"@"請輸入取貨人！"")
+"@"請輸入正確的電話！"" = "@"请输入正确的电话！"" //BMLocalizedString(@"@"請輸入正確的電話！"")
+"@"請選擇所在區域！"" = "@"请选择所在区域！"" //BMLocalizedString(@"@"請選擇所在區域！"")
+"@"請輸入詳細地址！"" = "@"请输入详细地址！"" //BMLocalizedString(@"@"請輸入詳細地址！"")
+"@"請輸入門市信息！"" = "@"请输入门市信息！"" //BMLocalizedString(@"@"請輸入門市信息！"")
+"@"請選擇類別！"" = "@"请选择类别！"" //BMLocalizedString(@"@"請選擇類別！"")
+"@"取貨地點 "" = "@"取货地点 "" //BMLocalizedString(@"@"取貨地點 "")
+"@"電話 "" = "@"电话 "" //BMLocalizedString(@"@"電話 "")
+"@"地址 "" = "@"地址 "" //BMLocalizedString(@"@"地址 "")
+"@"%@區%@"" = "@"%@区%@"" //BMLocalizedString(@"@"%@區%@"")
+"@"%@區%@"" = "@"%@区%@"" //BMLocalizedString(@"@"%@區%@"")
+
+//BMPurchaseListVC.m --1
+"@"共 %lu 件"" = "@"共 %lu 件"" //BMLocalizedString(@"@"共 %lu 件"")
+
+//BMShoppingCartVC.m --7
+"@"購物車"" = "@"购物车"" //BMLocalizedString(@"@"購物車"")
+"@"請選擇商品"" = "@"请选择商品"" //BMLocalizedString(@"@"請選擇商品"")
+"@"存在送貨方式不同的商品，請拆單提交"" = "@"存在送货方式不同的商品，请拆单提交"" //BMLocalizedString(@"@"存在送貨方式不同的商品，請拆單提交"")
+"@"結賬（%lu）"" = "@"结账（%lu）"" //BMLocalizedString(@"@"結賬（%lu）"")
+"@"購物車為空"" = "@"购物车为空"" //BMLocalizedString(@"@"購物車為空"")
+"@"刪除"" = "@"删除"" //BMLocalizedString(@"@"刪除"")
+"@"購物車為空"" = "@"购物车为空"" //BMLocalizedString(@"@"購物車為空"")
+
+//BMEditWishCardVC.m --7
+"@"心意卡"" = "@"心意卡"" //BMLocalizedString(@"@"心意卡"")
+"@"刪除"" = "@"删除"" //BMLocalizedString(@"@"刪除"")
+"@"請輸上款資料！"" = "@"请输上款资料！"" //BMLocalizedString(@"@"請輸上款資料！"")
+"@"請輸公司或者機構名稱！"" = "@"请输公司或者机构名称！"" //BMLocalizedString(@"@"請輸公司或者機構名稱！"")
+"@"請輸心意卡內容！"" = "@"请输心意卡内容！"" //BMLocalizedString(@"@"請輸心意卡內容！"")
+"@"請輸下款資料！"" = "@"请输下款资料！"" //BMLocalizedString(@"@"請輸下款資料！"")
+"@"請輸送禮人資料！"" = "@"请输送礼人资料！"" //BMLocalizedString(@"@"請輸送禮人資料！"")
+
+//BMWishCardStylesVC.m --1
+"@"選擇心意卡"" = "@"选择心意卡"" //BMLocalizedString(@"@"選擇心意卡"")
+
+//BMShopCartTableViewCell.m --3
+"@"送貨/自取"" = "@"送货/自取"" //BMLocalizedString(@"@"送貨/自取"")
+"@"送貨"" = "@"送货"" //BMLocalizedString(@"@"送貨"")
+"@"自取"" = "@"自取"" //BMLocalizedString(@"@"自取"")
+
+//BMDistView.m --2
+"@"所在區域"" = "@"所在区域"" //BMLocalizedString(@"@"所在區域"")
+"@"站點"" = "@"站点"" //BMLocalizedString(@"@"站點"")
+
+//BMDeliveryFeeView.m --1
+"@"日期"" = "@"日期"" //BMLocalizedString(@"@"日期"")
+
+//BMShopCartTopView.m --1
+"@"競購價"" = "@"竞购价"" //BMLocalizedString(@"@"競購價"")
+
+//BMRegisterVC.m --16
+"@"香港\nHK"" = "@"香港\nHK"" //BMLocalizedString(@"@"香港\nHK"")
+"@"九龍\nKLN"" = "@"九龙\nKLN"" //BMLocalizedString(@"@"九龍\nKLN"")
+"@"新界\nNT"" = "@"新界\nNT"" //BMLocalizedString(@"@"新界\nNT"")
+"@"離島\nISLAND"" = "@"离岛\nISLAND"" //BMLocalizedString(@"@"離島\nISLAND"")
+"@"會員註冊\nRegister"" = "@"会员注册\nRegister"" //BMLocalizedString(@"@"會員註冊\nRegister"")
+"@"香港(852)"" = "@"香港(852)"" //BMLocalizedString(@"@"香港(852)"")
+"@"獲取SMS授權碼"" = "@"获取SMS授权码"" //BMLocalizedString(@"@"獲取SMS授權碼"")
+"@"條款細則"" = "@"条款细则"" //BMLocalizedString(@"@"條款細則"")
+"@"個人資料收集聲明"" = "@"个人资料收集声明"" //BMLocalizedString(@"@"個人資料收集聲明"")
+"@"請輸入手机號碼！"" = "@"请输入手机号码！"" //BMLocalizedString(@"@"請輸入手机號碼！"")
+"@"請輸入區域編號！"" = "@"请输入区域编号！"" //BMLocalizedString(@"@"請輸入區域編號！"")
+"@"請輸入姓名！"" = "@"请输入姓名！"" //BMLocalizedString(@"@"請輸入姓名！"")
+"@"請輸入正確的手機號碼！"" = "@"请输入正确的手机号码！"" //BMLocalizedString(@"@"請輸入正確的手機號碼！"")
+"@"請輸入密碼！"" = "@"请输入密码！"" //BMLocalizedString(@"@"請輸入密碼！"")
+"@"請同意繽紛會員的《條款細則》及《個人資料收集說明》"" = "@"请同意缤纷会员的《条款细则》及《个人资料收集说明》"" //BMLocalizedString(@"@"請同意繽紛會員的《條款細則》及《個人資料收集說明》"")
+"@"請輸入授權碼！"" = "@"请输入授权码！"" //BMLocalizedString(@"@"請輸入授權碼！"")
+
+//BMModifyPasswordVC.m --6
+"@"修改密碼"" = "@"修改密码"" //BMLocalizedString(@"@"修改密碼"")
+"@"正在更新"" = "@"正在更新"" //BMLocalizedString(@"@"正在更新"")
+"@"密碼更新成功，請重新登入"" = "@"密码更新成功，请重新登入"" //BMLocalizedString(@"@"密碼更新成功，請重新登入"")
+"@"請輸入舊密碼！"" = "@"请输入旧密码！"" //BMLocalizedString(@"@"請輸入舊密碼！"")
+"@"請輸入新密碼！"" = "@"请输入新密码！"" //BMLocalizedString(@"@"請輸入新密碼！"")
+"@"請輸入確認密碼！"" = "@"请输入确认密码！"" //BMLocalizedString(@"@"請輸入確認密碼！"")
+
+//BMStaffsVC.m --1
+"@"服務員\nCustomer Service"" = "@"服务员\nCustomer Service"" //BMLocalizedString(@"@"服務員\nCustomer Service"")
+
+//BMBranchVC.m --1
+"@"服務站\nShop"" = "@"服务站\nShop"" //BMLocalizedString(@"@"服務站\nShop"")
+
+//BMForgetPasswordVC.m --9
+"@"重設密碼"" = "@"重设密码"" //BMLocalizedString(@"@"重設密碼"")
+"@"香港(852)"" = "@"香港(852)"" //BMLocalizedString(@"@"香港(852)"")
+"@"獲取SMS授權碼"" = "@"获取SMS授权码"" //BMLocalizedString(@"@"獲取SMS授權碼"")
+"@"請輸入登記電話號碼！"" = "@"请输入登记电话号码！"" //BMLocalizedString(@"@"請輸入登記電話號碼！"")
+"@"請輸入區域編號！"" = "@"请输入区域编号！"" //BMLocalizedString(@"@"請輸入區域編號！"")
+"@"請輸入登記電話號碼！"" = "@"请输入登记电话号码！"" //BMLocalizedString(@"@"請輸入登記電話號碼！"")
+"@"請輸入密碼！"" = "@"请输入密码！"" //BMLocalizedString(@"@"請輸入密碼！"")
+"@"兩次輸入密碼不一致！"" = "@"两次输入密码不一致！"" //BMLocalizedString(@"@"兩次輸入密碼不一致！"")
+"@"請輸入授權碼！"" = "@"请输入授权码！"" //BMLocalizedString(@"@"請輸入授權碼！"")
+
+//BMLoginVC.m --4
+"@"登入\nLogin"" = "@"登入\nLogin"" //BMLocalizedString(@"@"登入\nLogin"")
+"@"正在登入"" = "@"正在登入"" //BMLocalizedString(@"@"正在登入"")
+"@"請輸入登記電話號碼！"" = "@"请输入登记电话号码！"" //BMLocalizedString(@"@"請輸入登記電話號碼！"")
+"@"請輸入密碼！"" = "@"请输入密码！"" //BMLocalizedString(@"@"請輸入密碼！"")
+
+//BMCodeView.m --2
+"@"請輸入驗證碼！"" = "@"请输入验证码！"" //BMLocalizedString(@"@"請輸入驗證碼！"")
+"@"驗證碼錯誤！"" = "@"验证码错误！"" //BMLocalizedString(@"@"驗證碼錯誤！"")
+
+//BMAreaSelectView.m --5
+"@"香港"" = "@"香港"" //BMLocalizedString(@"@"香港"")
+"@"澳門"" = "@"澳门"" //BMLocalizedString(@"@"澳門"")
+"@"台灣"" = "@"台湾"" //BMLocalizedString(@"@"台灣"")
+"@"內地"" = "@"内地"" //BMLocalizedString(@"@"內地"")
+"@"請選擇註冊手機所屬區域"" = "@"请选择注册手机所属区域"" //BMLocalizedString(@"@"請選擇註冊手機所屬區域"")
+
+//BMCountDownButton.m --1
+"@"%ld秒"" = "@"%ld秒"" //BMLocalizedString(@"@"%ld秒"")
